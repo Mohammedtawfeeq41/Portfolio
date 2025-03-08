@@ -19,7 +19,7 @@ function sendemail(event) {
 
     // Create the template parameters object
     let templateParams = {
-        to_name: "YashminUnnisha", // Receiver's name
+        to_name: "Mohammed Tawfeeq", // Receiver's name
         from_name: name, // Sender's name
         from_email: email, // Sender's email
         from_phonenumber: phonenumber, // Sender's phone number
